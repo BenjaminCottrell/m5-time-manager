@@ -13,7 +13,7 @@ While building this project I learned how to:
 
 ## Link to Deployed Site
 
-To view the project click here: [Code Quiz](https://benjamincottrell.github.io/m5-time-manager/)
+To view the project click here: [Workday Scheduler](https://benjamincottrell.github.io/m5-time-manager/)
 
 ## Screenshots
 
